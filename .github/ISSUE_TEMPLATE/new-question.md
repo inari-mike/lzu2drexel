@@ -1,7 +1,7 @@
 ---
 name: New Question
 about: One person asking here helps ten people in silence.
-title: Your Question
+title: Summarize Your Question in One Sentence
 labels: Unsolved
 assignees: ''
 
